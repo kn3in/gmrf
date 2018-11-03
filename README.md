@@ -17,3 +17,5 @@ Set of notes on Gaussian Markov Random Fields, particular in image analysis/spat
 * A. Gelfand P. Diggle P. Guttorp M. Fuentes (Eds), [Handbook of Spatial Statistics](https://www.crcpress.com/Handbook-of-Spatial-Statistics/Gelfand-Diggle-Guttorp-Fuentes/p/book/9781420072877). Puts GMRF in perspective to other spatial statistics methodology.
 
 * [Bayesian Computing with INLA](https://www.youtube.com/watch?v=LvlnI_PU0Pc) H&#229;vard Rue lecture on INLA, much better than reading slides. 
+
+* [Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA](https://becarioprecario.bitbucket.io/spde-gitbook/index.html)
